@@ -8,7 +8,7 @@ For example, consider that n = 3 and the requests are:<br>
 - p1 = 1 and t1 = 4
 - p2 = 2 and t2 = 1
 - p3 = 3 and t3 = 3
-A maximal set would be {2, 3}, covering the ranges [2..3] and [3..6].<br>
+<br>A maximal set would be {2, 3}, covering the ranges [2..3] and [3..6].<br>
 Your algorithm must use O(n log n) time and O(n) extra memory.
 
 ## Requirements:
