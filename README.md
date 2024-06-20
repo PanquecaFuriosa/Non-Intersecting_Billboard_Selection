@@ -8,6 +8,7 @@ For example, consider that n = 3 and the requests are:<br>
 - p1 = 1 and t1 = 4
 - p2 = 2 and t2 = 1
 - p3 = 3 and t3 = 3
+  
 <br>A maximal set would be {2, 3}, covering the ranges [2..3] and [3..6].<br>
 Your algorithm must use O(n log n) time and O(n) extra memory.
 
@@ -17,10 +18,10 @@ To run this program, you must have the following installed:
 
 ## How to install the project
 Follow these steps to install the project:
-1. **Clone the repository**: Clone the repository using the following git command:
+1. **Clone the repository**: Clone the repository using the following git command:<br>
    ```git clone https://github.com/PanquecaFuriosa/Non-Intersecting_Billboard_Selection```
 
 ## How to run the project
 Follow these steps to run the project:
-1. **Run the following bash command**:
+1. **Run the following bash command**:<br>
    ```python main.py```
